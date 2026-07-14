@@ -89,7 +89,7 @@ dist\
 
 ### Organisieren
 
-![Organisieren](images/OrganisierenAnsicht.png)
+![Organisieren](images/organisierenAnsicht.png)
 
 ### Bearbeiten
 
